@@ -46,7 +46,7 @@ Embedded Systems: ARM Cortex-M4, Sensor Integration, Firmware Development
 
 ## 🚀 Professional Experience
 
-- **Software Engineer** at **Juniper Networks** (Mar 2024 - Present)
+- **Software Engineer - 2** at **Juniper Networks** (Mar 2024 - Present)
   - Development of daemons on Junos EVO OS for Routing Engines on QFX-5K Series Switches.
   - Linux Platform Development for Data Center Networking equipment.
 
