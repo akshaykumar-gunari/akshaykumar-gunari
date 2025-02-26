@@ -23,7 +23,7 @@ I'm a Software Engineer with expertise in Linux platform development, kernel pro
 <div align="center">
 
 ```
-Programming Languages: C, C++, Python, Shell Scripting
+Programming Languages: C, C++, Python, Shell Scripting, Rust
 ```
 
 ```
@@ -47,24 +47,24 @@ Embedded Systems: ARM Cortex-M4, Sensor Integration, Firmware Development
 ## 🚀 Professional Experience
 
 - **Software Engineer** at **Juniper Networks** (Mar 2024 - Present)
-  - Development of daemons on Junos EVO OS for Routing Engines on QFX-5K Series Switches
-  - Linux Platform Development for Data Center Networking equipment
+  - Development of daemons on Junos EVO OS for Routing Engines on QFX-5K Series Switches.
+  - Linux Platform Development for Data Center Networking equipment.
 
 - **System Software Designer - 2** at **AMD - Linux Platform Driver Team** (May 2023 - Mar 2024)
-  - DMA and Non-Transparent Bridge device driver development for Server Platforms
-  - Developed custom performance evaluation tools (dma-perf) by integrating dma-test and ntb_perf
+  - DMA and Non-Transparent Bridge device driver development for Server Platforms.
+  - Developed custom performance evaluation tools (dma-perf) by integrating dma-test and ntb_perf.
   
 - **System Software Designer - 1** at **AMD - Sensor Fusion Hub Team** (Jul 2021 - May 2023)
-  - Enabled Human Presence Detection sensors (TDK CH201, Altek Sunny M1) and Ambient Light Sensors on ARM Cortex-M4
-  - Ported Zephyr RTOS to ARM Cortex-M4 co-processor for sensor management
-  - Received multiple Spotlight Awards for sensor enablement and firmware feature development
+  - Enabled Human Presence Detection sensors (TDK CH201, Altek Sunny M1) and Ambient Light Sensors on ARM Cortex-M4.
+  - Ported Zephyr RTOS to ARM Cortex-M4 co-processor for sensor management.
+  - Received multiple Spotlight Awards for sensor enablement and firmware feature development.
 
 ## 🏆 Achievements & Awards
 
 - 3× **Spotlight Awards at AMD** (Dec 2021, Jan 2022, Dec 2022)
-  - For enabling TDK InvenSense HPD Sensor, measuring firmware boot timestamps, and lab contributions
-- **Patent Filing**: "System for Attention-Based Decomposition of 3D Point Clouds" (Mar 2022)
-- **Kaggle Competition**: Ranked 52/1342 in "Categorical Feature Encoding Challenge" (Dec 2019)
+  - For enabling TDK InvenSense HPD Sensor, measuring firmware boot timestamps, and device bring-up contributions.
+- **Patent Filing**: "System for Attention-Based Decomposition of 3D Point Clouds" (Mar 2022).
+- **Kaggle Competition**: Ranked 52/1342 in "Categorical Feature Encoding Challenge" (Dec 2019).
 
 ## 📚 Research Publications
 
@@ -90,14 +90,14 @@ Embedded Systems: ARM Cortex-M4, Sensor Integration, Firmware Development
       <br />
       <b>NTB and DMA Driver Development</b>
       <br />
-      Developed Linux kernel drivers for Non-Transparent Bridge and DMA Controllers on Server Platforms
+      Developed Linux kernel drivers for Non-Transparent Bridge and DMA Controllers on Server Platforms.
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/-RTOS-black?style=for-the-badge&logo=zephyr&logoColor=white" alt="RTOS"/>
       <br />
       <b>Zephyr RTOS Enablement</b>
       <br />
-      Ported Zephyr RTOS to ARM Cortex-M4 co-processor for sensor management
+      Ported Zephyr RTOS to ARM Cortex-M4 co-processor for sensor management.
     </td>
   </tr>
   <tr>
@@ -106,14 +106,14 @@ Embedded Systems: ARM Cortex-M4, Sensor Integration, Firmware Development
       <br />
       <b>Progressive Clustering</b>
       <br />
-      Framework for finding arbitrarily shaped clusters in dynamically growing datasets
+      Framework for finding arbitrarily shaped clusters in dynamically growing datasets.
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/-Deep_Learning-black?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"/>
       <br />
       <b>ABD-Net for 3D Point Cloud</b>
       <br />
-      Attention Based Decomposition Network for point clouds
+      Attention-Based Decomposition Network for point clouds.
     </td>
   </tr>
 </table>
