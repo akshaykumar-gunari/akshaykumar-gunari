@@ -23,23 +23,23 @@ I'm a Software Engineer with expertise in Linux platform development, kernel pro
 <div align="center">
 
 ```
-** Programming Languages: ** C, C++, Python, Shell Scripting, Rust
+Programming Languages: C, C++, Python, Shell Scripting, Rust
 ```
 
 ```
-** OS & Kernel: ** Linux Kernel Programming, Device Drivers, RTOS (Zephyr), Yocto Project
+OS & Kernel: Linux Kernel Programming, Device Drivers, RTOS (Zephyr), Yocto Project
 ```
 
 ```
-** Hardware Interfaces: ** I2C, DMA Controllers, Non-Transparent Bridge (NTB)
+Hardware Interfaces: I2C, DMA Controllers, Non-Transparent Bridge (NTB)
 ```
 
 ```
-** AI/ML: ** TensorFlow, PyTorch, Computer Vision, Deep Learning, Unsupervised Learning
+AI/ML: TensorFlow, PyTorch, Computer Vision, Deep Learning, Unsupervised Learning
 ```
 
 ```
-** Embedded Systems: ** ARM Cortex-M4, Sensor Integration, Firmware Development
+Embedded Systems: ARM Cortex-M4, Sensor Integration, Firmware Development
 ```
 
 </div>
