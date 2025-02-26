@@ -11,12 +11,12 @@
 
 I'm a Software Engineer with expertise in Linux platform development, kernel programming, and embedded systems. Currently working at Juniper Networks on Linux platform development for networking switches, I bring experience from AMD where I focused on DMA/NTB device drivers and sensor fusion development.
 
-- 🔭 I'm currently working on **Linux Platform Development for QFX-5K Series Switches** using Junos EVO OS
-- 🌱 I'm pursuing **MTech in AI/ML at Birla Institute of Technology, Pilani**
-- 💡 I've filed a patent on **Attention-Based Decomposition of 3D Point Clouds**
-- 📝 I've published **4 research papers** in computer vision and deep learning
-- 🧿 My research interests include **progressive clustering, 3D point cloud decomposition, and transfer learning**
-- 🌐 Check out my portfolio: [https://akshaykumar-gunari.github.io/Portfolio/](https://akshaykumar-gunari.github.io/Portfolio/)
+- 🔭 I'm currently working on **Linux Platform Development for QFX-5K Series Switches** using Junos EVO OS.
+- 🌱 I'm pursuing **MTech in AI/ML at Birla Institute of Technology, Pilani**.
+- 💡 I've filed a patent on **Attention-Based Decomposition of 3D Point Clouds**.
+- 📝 I've published **4 research papers** in computer vision and deep learning.
+- 🧿 My research interests include **progressive clustering, 3D point cloud decomposition, and transfer learning**.
+- 🌐 Check out my portfolio: [https://akshaykumar-gunari.github.io/Portfolio/](https://akshaykumar-gunari.github.io/Portfolio/).
 
 ## 🛠️ Technical Skills
 
