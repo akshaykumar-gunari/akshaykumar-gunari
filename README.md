@@ -123,27 +123,34 @@ Embedded Systems: ARM Cortex-M4, Sensor Integration, Firmware Development
 ## 📊 GitHub Stats & Activities
 
 <div align="center">
+  <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=akshaykumar-gunari&theme=darkhub&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshaykumar-gunari&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykumar-gunari&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=html,css" />
+  <!-- GitHub Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshaykumar-gunari&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  
+  <!-- Top Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykumar-gunari&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=html,css" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
+  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykumar-gunari&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak" width="70%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=akshaykumar-gunari&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%" />
+  <!-- GitHub Activity Graph Alternative -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshaykumar-gunari&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 </div>
+
 
 ## 📫 Let's Connect
 
