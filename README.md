@@ -123,7 +123,7 @@ Embedded Systems: ARM Cortex-M4, Sensor Integration, Firmware Development
 ## 📊 GitHub Stats & Activities
 
 <div align="center">
-  <!-- GitHub Trophies -->
+  <!-- GitHub Profile Trophy -->
   <img src="https://github-profile-trophy.vercel.app/?username=akshaykumar-gunari&theme=darkhub&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" width="100%" />
 </div>
 
@@ -147,8 +147,42 @@ Embedded Systems: ARM Cortex-M4, Sensor Integration, Firmware Development
 <br>
 
 <div align="center">
-  <!-- GitHub Activity Graph Alternative -->
+  <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshaykumar-gunari&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=akshaykumar-gunari&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  
+  <!-- GitHub Followers -->
+  <img src="https://img.shields.io/github/followers/akshaykumar-gunari?label=Followers&style=for-the-badge&color=blueviolet" alt="GitHub Followers" />
+  
+  <!-- GitHub Stars -->
+  <img src="https://img.shields.io/github/stars/akshaykumar-gunari?affiliations=OWNER&style=for-the-badge&color=blueviolet" alt="GitHub Stars" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Dynamic Quote Generator -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Most Used Emoji in Commits -->
+  <img src="https://github-readme-emoji-stats.herokuapp.com/?username=akshaykumar-gunari" alt="Emoji Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- GitHub Metrics Dashboard -->
+  <img src="https://github-readme-metrics.vercel.app/api?username=akshaykumar-gunari&theme=github_dark&hide_border=true" alt="GitHub Metrics" />
 </div>
 
 
