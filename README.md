@@ -1,8 +1,11 @@
-```
+<!--
 <div align="center">
   <img src="https://your-image-hosting-url.com/your-banner-image.jpg" alt="Akshaykumar Gunari" width="100%" height="250">
+  
+  <!-- Add your profile photo below the banner -->
+  <img src="https://your-image-hosting-url.com/your-profile-photo.jpg" alt="Akshaykumar Gunari" width="200" height="200" style="border-radius:50%;">
 </div>
-```
+-->
 
 # 👋 Hi, I'm Akshaykumar Gunari
 
@@ -26,6 +29,8 @@ I'm a Software Engineer with expertise in Linux platform development, kernel pro
 
 ## 🛠️ Technical Skills
 
+<div align="center">
+
 ```
 Programming Languages: C, C++, Python, Shell Scripting
 ```
@@ -45,6 +50,8 @@ AI/ML: TensorFlow, PyTorch, Computer Vision, Deep Learning, Unsupervised Learnin
 ```
 Embedded Systems: ARM Cortex-M4, Sensor Integration, Firmware Development
 ```
+
+</div>
 
 ## 🚀 Professional Experience
 
@@ -70,46 +77,81 @@ Embedded Systems: ARM Cortex-M4, Sensor Integration, Firmware Development
 
 ## 📚 Research Publications
 
-1. "Progressive Clustering: An Unsupervised Approach Towards Continual Knowledge Acquisition of Incremental Data" - **ICPRAI 2022**
-2. "ABD-Net: Attention Based Decomposition Network for 3D Point Cloud Decomposition" - **ICCV 2021**
-3. "Augmented Data as an Auxiliary Plug-In Toward Categorization of Crowdsourced Heritage Data" - **WDH 2021**
-4. "Deep Visual Attention-Based Transfer Clustering" - **CoCoNet 2020**
+<div align="center">
+
+| Publication | Conference | Year |
+|------------|------------|------|
+| "Progressive Clustering: An Unsupervised Approach Towards Continual Knowledge Acquisition of Incremental Data" | **ICPRAI** | 2022 |
+| "ABD-Net: Attention Based Decomposition Network for 3D Point Cloud Decomposition" | **ICCV Workshop** | 2021 |
+| "Augmented Data as an Auxiliary Plug-In Toward Categorization of Crowdsourced Heritage Data" | **WDH** | 2021 |
+| "Deep Visual Attention-Based Transfer Clustering" | **CoCoNet** | 2020 |
+
+</div>
 
 ## 🧪 Featured Projects
 
-### NTB and DMA Driver Development
-- Developed Linux kernel drivers for Non-Transparent Bridge and DMA Controllers on Server Platforms
-- Created in-house kernel modules for performance evaluation of NTB data transfer over DMA
+<div align="center">
 
-### Zephyr RTOS Enablement
-- Designed and ported Zephyr RTOS to ARM Cortex-M4 co-processor for sensor management
-- Modified device tree, memory configurations, and sensor data analysis components
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Kernel_Development-black?style=for-the-badge&logo=linux&logoColor=white" alt="Kernel Development"/>
+      <br />
+      <b>NTB and DMA Driver Development</b>
+      <br />
+      Developed Linux kernel drivers for Non-Transparent Bridge and DMA Controllers on Server Platforms
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-RTOS-black?style=for-the-badge&logo=zephyr&logoColor=white" alt="RTOS"/>
+      <br />
+      <b>Zephyr RTOS Enablement</b>
+      <br />
+      Ported Zephyr RTOS to ARM Cortex-M4 co-processor for sensor management
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Machine_Learning-black?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning"/>
+      <br />
+      <b>Progressive Clustering</b>
+      <br />
+      Framework for finding arbitrarily shaped clusters in dynamically growing datasets
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Deep_Learning-black?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"/>
+      <br />
+      <b>ABD-Net for 3D Point Cloud</b>
+      <br />
+      Attention Based Decomposition Network for point clouds
+    </td>
+  </tr>
+</table>
 
-### Progressive Clustering
-- Proposed a framework for finding arbitrarily shaped clusters in dynamically growing datasets
-- Developed an approach for both class-incremental and distribution-incremental learning
-
-### ABD-Net for 3D Point Cloud Decomposition
-- Created Attention Based Decomposition Network for decomposing point clouds into basic geometric shapes
-- Research led to patent filing and publication at ICCV 2021 workshop
+</div>
 
 ## 📊 GitHub Stats & Activities
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshaykumar-gunari&theme=nord&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=akshaykumar-gunari&theme=darkhub&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" width="100%" />
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshaykumar-gunari&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykumar-gunari&layout=compact&theme=tokyonight&langs_count=8&hide=html,css" />
-</div>
+<br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykumar-gunari&theme=tokyonight" alt="GitHub Streak" width="70%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshaykumar-gunari&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykumar-gunari&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=html,css" />
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=akshaykumar-gunari&theme=react-dark" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykumar-gunari&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak" width="70%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=akshaykumar-gunari&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%" />
 </div>
 
 ## 📫 Let's Connect
@@ -124,7 +166,10 @@ Embedded Systems: ARM Cortex-M4, Sensor Integration, Firmware Development
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=akshaykumar-gunari&style=flat-square&color=blue" alt="Profile Views"/>
+  <br>
+  <img src="https://img.shields.io/github/last-commit/akshaykumar-gunari/akshaykumar-gunari?style=flat-square&color=blue&label=Last%20Updated" alt="Last Updated"/>
 </div>
+
 
 <!--
 **akshaykumar-gunari/akshaykumar-gunari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
