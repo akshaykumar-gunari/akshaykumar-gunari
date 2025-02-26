@@ -1,12 +1,3 @@
-<!--
-<div align="center">
-  <img src="https://your-image-hosting-url.com/your-banner-image.jpg" alt="Akshaykumar Gunari" width="100%" height="250">
-  
-  <!-- Add your profile photo below the banner -->
-  <img src="https://your-image-hosting-url.com/your-profile-photo.jpg" alt="Akshaykumar Gunari" width="200" height="200" style="border-radius:50%;">
-</div>
--->
-
 # 👋 Hi, I'm Akshaykumar Gunari
 
 <div align="center">
