@@ -1,8 +1,8 @@
-'''
+```
 <div align="center">
   <img src="https://your-image-hosting-url.com/your-banner-image.jpg" alt="Akshaykumar Gunari" width="100%" height="250">
 </div>
-'''
+```
 
 # 👋 Hi, I'm Akshaykumar Gunari
 
