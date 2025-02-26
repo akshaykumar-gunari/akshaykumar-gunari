@@ -166,18 +166,7 @@ Embedded Systems: ARM Cortex-M4, Sensor Integration, Firmware Development
 
 <br>
 
-<div align="center">
-  <!-- Random Programming Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
-</div>
-
 <br>
-
-<div align="center">
-  <!-- Wakatime Coding Activity (Only Works if You Use Wakatime) -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=akshaykumar-gunari&theme=github_dark&hide_border=true" alt="Wakatime Coding Activity" />
-</div>
-
 
 
 ## 📫 Let's Connect
