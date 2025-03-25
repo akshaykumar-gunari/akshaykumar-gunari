@@ -48,7 +48,7 @@ Embedded Systems: ARM Cortex-M4, Sensor Integration, Firmware Development
 
 - **Software Engineer - 2** at **Juniper Networks** (Mar 2024 - Present)
   - Development of daemons on Junos EVO OS for Routing Engines on QFX-5K Series Switches.
-  - Linux Platform Development for Data Center Networking equipment.
+  - Linux Platform Development for Data Center Networking Switches.
 
 - **System Software Designer - 2** at **AMD - Linux Platform Driver Team** (May 2023 - Mar 2024)
   - DMA and Non-Transparent Bridge device driver development for Server Platforms.
